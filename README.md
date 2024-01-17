@@ -7,8 +7,6 @@
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 In this project I created qr code scanning card by using html,css and bootstrap.
@@ -31,7 +29,7 @@ The project for resolutions:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Internal CSS custom properties
 - Bootstrap
 
 ## Author

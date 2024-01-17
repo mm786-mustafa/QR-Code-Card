@@ -36,5 +36,5 @@ The project for resolutions:
 
 ## Author
 
-- Website - [Muhammad Mustafa](https://www.your-site.com)
+- Website - [Muhammad Mustafa]([https://www.your-site.com](https://github.com/mm786-mustafa/QR-Code-Card.git))
 - Frontend Mentor - [@mm786-mustafa](https://www.frontendmentor.io/profile/mm786-mustafa)
